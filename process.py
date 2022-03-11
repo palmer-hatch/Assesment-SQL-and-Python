@@ -19,3 +19,6 @@ def sales_reports(log_file):
 
 #inciting the function
 sales_reports(log_file)
+
+#DB DESIGN
+# https://dbdesigner.page.link/5bSdhGAg3GKRaEHD6
